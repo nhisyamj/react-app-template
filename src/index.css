@@ -1,0 +1,10 @@
+@font-face {
+    font-family: EconomicaBold;
+    src: url(assets/economica-bold.ttf);
+}
+
+body {
+    text-align: center;
+    font-size: 20px;
+    padding: 2.5%;
+}
